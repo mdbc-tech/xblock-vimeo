@@ -171,7 +171,7 @@ class VimeoBlock(XBlock):
         }
 
         if hostname == 'vimeo.com':
-            oembed_url = 'http://vimeo.com/api/oembed.json'
+            oembed_url = 'https://vimeo.com/api/oembed.json'
             params['api'] = True
         else:
             return hostname, '<p>{message} ({hostname})</p>'.format(

@@ -7,9 +7,9 @@ Support
 -------
 | Open edX Release |  Tag |
 |:-----------------|:----:|
-| Lilac            | v0.5 |
-| Juniper          | v0.5 |
-| Ironwood         | v0.5 |
+| Lilac            | v0.5.1 |
+| Juniper          | v0.5.1 |
+| Ironwood         | v0.5.1 |
 
 > ###### Tested on Python 3.5, 3.8. Manually tested on Python 2.7.
 

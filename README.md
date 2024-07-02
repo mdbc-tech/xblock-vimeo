@@ -50,3 +50,8 @@ Installing on DevStack
 4. `pip install "git+https://github.com/open-craft/xblock-vimeo@master#egg=xblock-vimeo"`
 5. `docker-compose restart studio`
 6. Repeat steps 2 till 5 using `lms` instead of `studio`, that is `make lms-shell` and `docker-compose restart lms`.
+
+
+Changes
+----- 
+this version updates the vimeo api to use secure layers
